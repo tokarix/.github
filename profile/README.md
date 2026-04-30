@@ -3,7 +3,7 @@
 Tokarix is where I host my AI agent tooling. Three Rust projects:
 
 - **[memory-server](https://github.com/tokarix/memory-server)** — semantic memory for AI agents. Store, search, and maintain durable memories with graph-based expansion, review workflows, and an offline dream/consolidation cycle. Exposes an MCP interface.
-- **forge-mcp** — multi-forge, policy-enforcing MCP server that gives agents controlled access to Git forges (Forgejo, Gitea, GitLab). Fine-grained policy engine, audit trail, branch prefix enforcement. *Not yet published.*
+- **[forge-mcp](https://github.com/tokarix/forge-mcp)** — multi-forge, policy-enforcing MCP server that gives agents controlled access to Git forges (Forgejo, Gitea, GitLab). Fine-grained policy engine, audit trail, branch prefix enforcement. *Not yet published.*
 - **cockpit** — operator dashboard and orchestrator for multi-project, multi-agent work. Coordinates agents, manages task lifecycles, renders plans, dispatches reviews. *Not yet published.*
 
 ## Why
