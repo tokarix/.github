@@ -30,7 +30,7 @@ After months of steering agents: they can not be trusted. Full stop. Doesn't mat
 
 ## Issues & PRs
 
-Disabled on these GitHub repos. Development happens on an internal Forgejo instance. `forge-mcp` and `cockpit` will be published here when they're ready.
+Disabled on these GitHub repos. Development happens on an internal Forgejo instance. `cockpit` will be published here when it's ready.
 
 ## Contact
 
